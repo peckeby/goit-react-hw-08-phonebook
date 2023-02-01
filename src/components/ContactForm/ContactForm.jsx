@@ -40,7 +40,7 @@ export default function ContactForm() {
     if (contacts.length > 0 && fiterChange(userName).length > 0) {
       alert(`${userName} is already in contacts.`);
     } else {
-      dispatch(addContact({ phone: userNumber, name: userName }));
+      dispatch(addContact({ name: userName, number: userNumber }));
     }
     setUserNumber('');
     setUserName('');

@@ -17,7 +17,7 @@ export default function ContactsItem({ contact }) {
   return (
     <ListContactsItem name={contact.name} id={contact.id} key={contact.id}>
       <p>
-        {contact.name}: {contact.phone}
+        {contact.name}: {contact.number}
       </p>
       <DeleteBtn type="button" onClick={handleDelete}>
         Delete
