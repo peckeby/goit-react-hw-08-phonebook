@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkphonebook=self.webpackChunkphonebook||[]).push([[677],{9677:function(n,e,o){o.r(e),o.d(e,{default:function(){return h}});var r,c=o(168),t=o(6444).ZP.h2(r||(r=(0,c.Z)(["\n  color: #7a5770;\n"]))),u=o(184);function h(n){var e=n.title,o=n.children;return(0,u.jsxs)("section",{children:[(0,u.jsx)(t,{children:e}),o]})}}}]);
+//# sourceMappingURL=677.4b203e4b.chunk.js.map
