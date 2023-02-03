@@ -1,9 +1,8 @@
 {
   "files": {
     "main.css": "/goit-react-hw-08-phonebook/static/css/main.7acaea2f.css",
-    "main.js": "/goit-react-hw-08-phonebook/static/js/main.5591134a.js",
-    "static/js/35.cf736a41.chunk.js": "/goit-react-hw-08-phonebook/static/js/35.cf736a41.chunk.js",
-    "static/js/595.37ecef55.chunk.js": "/goit-react-hw-08-phonebook/static/js/595.37ecef55.chunk.js",
+    "main.js": "/goit-react-hw-08-phonebook/static/js/main.de2691c7.js",
+    "static/js/595.24946d76.chunk.js": "/goit-react-hw-08-phonebook/static/js/595.24946d76.chunk.js",
     "static/js/727.fedc7d3d.chunk.js": "/goit-react-hw-08-phonebook/static/js/727.fedc7d3d.chunk.js",
     "static/js/785.957e97f6.chunk.js": "/goit-react-hw-08-phonebook/static/js/785.957e97f6.chunk.js",
     "static/js/65.9803ebd8.chunk.js": "/goit-react-hw-08-phonebook/static/js/65.9803ebd8.chunk.js",
@@ -14,9 +13,8 @@
     "static/js/270.413a068f.chunk.js": "/goit-react-hw-08-phonebook/static/js/270.413a068f.chunk.js",
     "index.html": "/goit-react-hw-08-phonebook/index.html",
     "main.7acaea2f.css.map": "/goit-react-hw-08-phonebook/static/css/main.7acaea2f.css.map",
-    "main.5591134a.js.map": "/goit-react-hw-08-phonebook/static/js/main.5591134a.js.map",
-    "35.cf736a41.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/35.cf736a41.chunk.js.map",
-    "595.37ecef55.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/595.37ecef55.chunk.js.map",
+    "main.de2691c7.js.map": "/goit-react-hw-08-phonebook/static/js/main.de2691c7.js.map",
+    "595.24946d76.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/595.24946d76.chunk.js.map",
     "727.fedc7d3d.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/727.fedc7d3d.chunk.js.map",
     "785.957e97f6.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/785.957e97f6.chunk.js.map",
     "65.9803ebd8.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/65.9803ebd8.chunk.js.map",
@@ -28,6 +26,6 @@
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.5591134a.js"
+    "static/js/main.de2691c7.js"
   ]
 }
